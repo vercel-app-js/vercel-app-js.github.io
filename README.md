@@ -1,4 +1,19 @@
-Capture and Share the World's Moments
+# Dkon - Capture and Share the World's Moments
+
 Dkon is a fast, beautiful, and fun way to share your life with friends and family. With Dkon, you can easily capture and share the world's moments, making every experience memorable.
-Simply take a picture or video, choose a filter to transform its look and feel, and then post it to Dkon — it's that easy! You can even share your creations to popular social media platforms like Facebook, Twitter, Tumblr, and more. Dkon offers a new way to see the world through your unique perspective.
-Oh yeah, did we mention it's free? Join the Dkon community today and start sharing your moments with the world!
+
+## Features
+
+- **Capture Moments**: Take stunning pictures and videos directly from the app.
+- **Filters**: Choose from a variety of filters to transform the look and feel of your media.
+- **Social Sharing**: Share your creations on popular platforms like Facebook, Twitter, Tumblr, and more.
+- **User-Friendly Interface**: Enjoy a seamless and intuitive user experience.
+- **Free to Use**: Join the Dkon community without any cost!
+
+## Installation
+
+To get started with Dkon, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://dkon.app/apk
